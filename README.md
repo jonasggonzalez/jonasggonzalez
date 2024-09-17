@@ -6,6 +6,7 @@
 
 <h2>📺 Certifications</h2>
 -Google IT support professional
+file:///C:/Users/jonas/OneDrive/Desktop/Professional%20documents/google%20cert.pdf
 <h2> 🤳 Connect with me:</h2>
 
 
