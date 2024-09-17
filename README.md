@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cyber security Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory home lab]([https://github.com](https://github.com/jonasggonzalez/ActiveDircetroyLab/blob/main/README.md))
+  - [Active Directory home lab][([https://github.com](https://github.com/jonasggonzalez/ActiveDircetroyLab/blob/main/README.md))](https://github.com/jonasggonzalez/ActiveDircetroyLab/blob/main/README.md)
 
 <h2>📺 Certifications</h2>
 -Google IT support professional
